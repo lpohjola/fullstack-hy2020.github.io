@@ -1,3 +1,4 @@
+[Palaute.docx](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/files/10838622/Palaute.docx)
 ---
 mainImage: ../../../images/part-0.svg
 part: 0
